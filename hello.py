@@ -1,5 +1,3 @@
-#Use Hashtag to comment out your name!
-#Like this: Ryo
-
 #Kevin
-print("hello world")
+for i in range(10):
+    print("hello world")
