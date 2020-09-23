@@ -1,7 +1,6 @@
 public class Hello{
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
         //Use a comment like this to write your name!
         //Like this: Ryo
-        //Chris
     }
 }
